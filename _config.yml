@@ -1,19 +1,4 @@
-name: guysmileemakesnoise
-favicon: null
-layout_spectrum: 0.1529363279696554
 typography_spectrum: 0.3848446076735854
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
 color:
   brandColors:
     - '#F7EDF0'
@@ -25,4 +10,20 @@ color:
   lightness: 0.14220454031601548
   saturation: 0.4317061163019389
   rhythmicContrast: 0.5240881803911179
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 0.1529363279696554
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+name: guysmileemakesnoise
+cta:
+  domain: null
+  bucket: null
+  version: null
+favicon: null
+title: Music & Sound
 purpose: []
